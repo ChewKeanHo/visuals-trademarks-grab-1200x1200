@@ -1,0 +1,46 @@
+cff-version: "1.2.0"
+type: "dataset"
+date-released: "2026-02-03"
+title: "Grab's Trademarks Logo 1200x1200"
+version: "1.0.0"
+license: "cc-by-nd-4.0"
+repository: "https://github.com/ChewKeanHo/visuals-trademarks-grab-1200x1200"
+repository-code: "https://github.com/ChewKeanHo/visuals-trademarks-grab-1200x1200"
+repository-artifact: "https://github.com/ChewKeanHo/visuals-trademarks-grab-1200x1200"
+url: "https://github.com/ChewKeanHo/visuals-trademarks-grab-1200x1200"
+contact:
+  - affiliation: "(Holloway) Chew, Kean Ho"
+    given-names: "Kean Ho"
+    family-names: "Chew"
+    email: "visuals@chewkeanho.com"
+    website: "https://visuals.chewkeanho.com"
+abstract: |-
+  The Grab's Trademarks Logo. They did not publish any trademark guideline but
+  did supply the material files for it. The preferred version is `.svg` which
+  has non-destructive scale up & down properties and can be converted into any
+  rasterized images (e.g. `jpeg`, `webp`, `avif`, etc). To comply with our
+  standards, a re-draw is required.
+
+  This project re-draws Grab's Trademarks Logo specifically for 1200x1200 size.
+message: |-
+  Please cite and reference this repository accordingly.
+authors:
+  - given-names: "Kean Ho"
+    family-names: "Chew"
+    email: "visuals@chewkeanho.com"
+    orcid: "https://orcid.org/0000-0003-4202-4863"
+identifiers:
+  - type: other
+    value: "chewkeanho-visuals-trademarks-grab-1200x1200"
+    description: "Product SKU Identifier"
+  - type: other
+    value: "AC7D4443-5AE5-4B67-93DF-70C81F5F4DF5"
+    description: "Product UUID Identifier"
+keywords:
+  - "grab"
+  - "logo-1200x1200"
+  - "trademarks"
+  - "logos"
+  - "graphics design"
+  - "visuals"
+  - "creative visuals"
